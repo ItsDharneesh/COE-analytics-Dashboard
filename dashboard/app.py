@@ -26,9 +26,14 @@ st.sidebar.title("COE Analytics")
 st.sidebar.write("Center of Excellence Initiative Monitoring Dashboard")
 
 # -----------------------------
-# Generate New Dataset Button
+# Dynamic Dataset Generation
 # -----------------------------
-if st.sidebar.button("Generate New Dataset"):
+st.sidebar.markdown("⬇️ **Generate a New Dataset**")
+st.sidebar.caption(
+    "Click the button below to create a fresh dataset of 100 initiatives and observe how the dashboard updates dynamically."
+)
+
+if st.sidebar.button("🔄 Generate New Dataset"):
 
     new_df = generate_dataset(100)
 
