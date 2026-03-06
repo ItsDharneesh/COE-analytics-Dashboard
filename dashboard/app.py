@@ -28,9 +28,23 @@ st.sidebar.write("Center of Excellence Initiative Monitoring Dashboard")
 # -----------------------------
 # Dynamic Dataset Generation
 # -----------------------------
-st.sidebar.markdown("⬇️ **Generate a New Dataset**")
-st.sidebar.caption(
-    "Click the button below to create a fresh dataset of 100 initiatives and observe how the dashboard updates dynamically."
+st.sidebar.markdown(
+    """
+    <div style="
+        border:2px solid #4CAF50;
+        padding:15px;
+        border-radius:10px;
+        background-color:#f0fff4;
+        margin-bottom:10px;
+    ">
+        <h4 style="margin-bottom:5px;">⬇️ Generate a New Dataset</h4>
+        <p style="font-size:13px;">
+        Click the button below to create a fresh dataset of 100 initiatives and observe
+        how the dashboard updates dynamically.
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True
 )
 
 if st.sidebar.button("🔄 Generate New Dataset"):
