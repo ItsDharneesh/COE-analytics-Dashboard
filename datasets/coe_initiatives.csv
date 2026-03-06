@@ -1,0 +1,101 @@
+Initiative Name,Owner,Start Date,End Date,Status,KPI Target,KPI Achieved,Business Benefit
+Sales Recommendation Engine 1,Rahul,2024-02-25,2024-06-14,Completed,105,180,1963091
+Demand Forecasting 2,Anita,2024-04-03,2024-09-07,Completed,136,78,837163
+Supply Chain Forecasting 3,Vikram,2024-04-24,2024-09-17,Delayed,143,113,1888465
+Marketing Optimizer 4,Priya,2024-01-10,2024-03-21,Delayed,162,133,605658
+Risk Analytics Platform 5,Karan,2024-03-26,2024-09-12,Completed,167,190,974459
+Marketing Optimizer 6,Vikram,2024-01-23,2024-07-21,Delayed,109,130,1845075
+Risk Analytics Platform 7,Rahul,2024-04-15,2024-08-23,Completed,180,89,1002563
+Marketing Optimizer 8,Priya,2024-03-19,2024-06-13,Delayed,159,120,2022225
+Invoice Automation 9,Vikram,2024-04-26,2024-08-22,Completed,130,148,630235
+Supply Chain Forecasting 10,Rahul,2024-03-22,2024-07-06,On Track,116,111,1399738
+Risk Analytics Platform 11,Rahul,2024-04-05,2024-07-26,Completed,183,65,1917590
+Predictive Maintenance 12,Anita,2024-02-05,2024-07-20,On Track,103,87,1396360
+Invoice Automation 13,Anita,2024-02-05,2024-07-26,Delayed,190,123,648464
+Sales Recommendation Engine 14,Anita,2024-02-20,2024-06-07,On Track,132,62,2146738
+Demand Forecasting 15,Arjun,2024-02-03,2024-05-06,Delayed,124,178,1016277
+Sales Recommendation Engine 16,Sneha,2024-03-31,2024-09-13,Delayed,156,135,625181
+Demand Forecasting 17,Anita,2024-01-30,2024-04-11,Completed,117,197,863462
+Predictive Maintenance 18,Sneha,2024-03-30,2024-07-05,On Track,186,101,545090
+Marketing Optimizer 19,Sneha,2024-04-26,2024-07-19,On Track,116,144,1279713
+AI Document Search 20,Sneha,2024-03-15,2024-07-02,Delayed,200,132,739602
+Supply Chain Forecasting 21,Vikram,2024-03-19,2024-08-12,On Track,140,111,869509
+Invoice Automation 22,Sneha,2024-04-11,2024-07-26,On Track,140,78,1203350
+Demand Forecasting 23,Karan,2024-01-06,2024-03-24,Completed,192,87,1379759
+Demand Forecasting 24,Neha,2024-04-10,2024-06-25,On Track,198,199,716215
+Invoice Automation 25,Priya,2024-03-11,2024-09-03,On Track,183,118,1657601
+Sales Recommendation Engine 26,Karan,2024-02-27,2024-07-07,On Track,126,90,741207
+Invoice Automation 27,Anita,2024-03-15,2024-08-15,Delayed,111,144,1697048
+Invoice Automation 28,Rahul,2024-02-28,2024-05-13,Completed,164,85,866950
+Fraud Detection System 29,Sneha,2024-01-24,2024-05-23,Completed,116,137,2072420
+Predictive Maintenance 30,Karan,2024-03-18,2024-05-23,On Track,145,170,1569760
+Fraud Detection System 31,Karan,2024-01-06,2024-05-07,Completed,168,184,879667
+Invoice Automation 32,Anita,2024-01-25,2024-06-16,On Track,126,63,1756037
+Risk Analytics Platform 33,Karan,2024-01-15,2024-05-04,Completed,179,128,1876388
+Predictive Maintenance 34,Arjun,2024-03-20,2024-06-12,Completed,104,194,1760241
+Demand Forecasting 35,Priya,2024-04-09,2024-09-30,Completed,105,195,768837
+Predictive Maintenance 36,Priya,2024-01-05,2024-04-13,Completed,123,108,1983326
+Marketing Optimizer 37,Karan,2024-04-28,2024-09-23,Delayed,105,170,2017118
+Fraud Detection System 38,Rahul,2024-01-08,2024-05-17,Delayed,147,179,1486198
+Risk Analytics Platform 39,Karan,2024-04-09,2024-07-27,Delayed,138,168,1025966
+Fraud Detection System 40,Sneha,2024-04-06,2024-09-25,Completed,197,81,2238831
+AI Document Search 41,Karan,2024-02-18,2024-07-28,Completed,178,147,2355177
+Customer Support Chatbot 42,Priya,2024-02-18,2024-05-16,On Track,196,153,2024390
+Sales Recommendation Engine 43,Arjun,2024-03-29,2024-07-19,Completed,177,163,1534147
+Predictive Maintenance 44,Karan,2024-01-15,2024-07-06,On Track,113,127,1707614
+Demand Forecasting 45,Vikram,2024-04-08,2024-06-14,Completed,182,105,776534
+Fraud Detection System 46,Anita,2024-01-17,2024-04-02,On Track,175,133,1603568
+Invoice Automation 47,Karan,2024-01-09,2024-04-23,Completed,139,171,1799539
+Fraud Detection System 48,Priya,2024-03-28,2024-07-06,On Track,163,116,1416508
+Predictive Maintenance 49,Rahul,2024-02-27,2024-05-09,Delayed,104,63,1907777
+Customer Support Chatbot 50,Vikram,2024-01-12,2024-07-09,Delayed,164,171,2396506
+Supply Chain Forecasting 51,Rahul,2024-03-08,2024-05-21,On Track,172,89,2217635
+Fraud Detection System 52,Rahul,2024-04-03,2024-08-25,On Track,173,141,1845350
+Invoice Automation 53,Sneha,2024-02-07,2024-04-20,On Track,122,112,1787749
+Sales Recommendation Engine 54,Karan,2024-02-24,2024-04-29,Delayed,116,179,2002932
+Fraud Detection System 55,Neha,2024-02-24,2024-06-11,Delayed,135,79,966869
+Fraud Detection System 56,Karan,2024-04-16,2024-07-10,Delayed,126,122,1247198
+Marketing Optimizer 57,Sneha,2024-03-17,2024-05-27,Completed,176,109,912095
+Marketing Optimizer 58,Priya,2024-02-29,2024-07-11,On Track,184,65,1427540
+Demand Forecasting 59,Priya,2024-03-19,2024-06-01,Delayed,112,116,2376025
+Sales Recommendation Engine 60,Priya,2024-03-28,2024-07-24,Completed,100,182,1931729
+Marketing Optimizer 61,Rahul,2024-01-11,2024-06-21,Delayed,163,64,652665
+Customer Support Chatbot 62,Arjun,2024-02-07,2024-05-23,On Track,194,99,695977
+Demand Forecasting 63,Anita,2024-03-15,2024-08-27,Completed,162,180,1973153
+Marketing Optimizer 64,Neha,2024-04-17,2024-09-03,On Track,178,176,2431644
+Fraud Detection System 65,Neha,2024-02-18,2024-08-13,Completed,194,108,1482702
+Sales Recommendation Engine 66,Vikram,2024-04-28,2024-10-15,Delayed,188,64,1322917
+Fraud Detection System 67,Vikram,2024-03-14,2024-07-24,On Track,144,90,1041732
+Demand Forecasting 68,Arjun,2024-04-13,2024-09-16,Completed,142,158,735666
+Sales Recommendation Engine 69,Arjun,2024-03-08,2024-06-12,Completed,159,179,1951202
+AI Document Search 70,Rahul,2024-02-09,2024-07-24,Delayed,145,134,826227
+Demand Forecasting 71,Neha,2024-03-08,2024-05-23,On Track,133,168,1879552
+Supply Chain Forecasting 72,Vikram,2024-03-08,2024-07-05,On Track,162,92,1207993
+Demand Forecasting 73,Karan,2024-02-13,2024-06-24,Completed,118,120,1522340
+AI Document Search 74,Anita,2024-03-11,2024-09-07,On Track,199,172,2177254
+Risk Analytics Platform 75,Neha,2024-04-02,2024-09-21,On Track,135,98,1233301
+Demand Forecasting 76,Vikram,2024-03-19,2024-06-13,Completed,172,128,1462461
+AI Document Search 77,Neha,2024-02-01,2024-05-30,Completed,164,141,1892917
+Supply Chain Forecasting 78,Sneha,2024-02-28,2024-05-21,On Track,133,171,1904564
+Invoice Automation 79,Arjun,2024-04-30,2024-09-26,Completed,171,155,1449624
+Predictive Maintenance 80,Anita,2024-02-07,2024-06-17,On Track,197,86,1076926
+Risk Analytics Platform 81,Anita,2024-04-20,2024-09-28,Delayed,103,175,2375242
+Risk Analytics Platform 82,Anita,2024-04-30,2024-07-18,Completed,118,64,599272
+Supply Chain Forecasting 83,Sneha,2024-04-03,2024-08-20,Delayed,179,66,2324896
+Sales Recommendation Engine 84,Arjun,2024-04-14,2024-08-24,Completed,154,172,2013327
+Demand Forecasting 85,Sneha,2024-01-13,2024-05-25,Delayed,195,63,1631573
+Supply Chain Forecasting 86,Priya,2024-03-04,2024-06-26,On Track,197,115,1189101
+Supply Chain Forecasting 87,Anita,2024-01-19,2024-03-25,Completed,160,111,2304012
+Risk Analytics Platform 88,Anita,2024-02-07,2024-06-24,Delayed,170,154,1054076
+Demand Forecasting 89,Sneha,2024-02-14,2024-05-30,On Track,191,103,1476781
+Invoice Automation 90,Sneha,2024-03-14,2024-07-16,On Track,169,148,914170
+Demand Forecasting 91,Arjun,2024-04-12,2024-08-22,Completed,195,95,2480834
+Risk Analytics Platform 92,Karan,2024-03-07,2024-08-17,Completed,182,71,1927883
+Risk Analytics Platform 93,Anita,2024-01-29,2024-03-31,Completed,106,176,1497484
+Risk Analytics Platform 94,Arjun,2024-01-15,2024-07-01,Completed,172,79,1183610
+Customer Support Chatbot 95,Anita,2024-01-24,2024-06-27,Delayed,167,109,2437139
+Fraud Detection System 96,Anita,2024-01-09,2024-04-16,On Track,136,68,2188630
+AI Document Search 97,Neha,2024-04-26,2024-08-13,On Track,130,136,737479
+Risk Analytics Platform 98,Anita,2024-04-27,2024-09-26,On Track,125,125,1369819
+Marketing Optimizer 99,Priya,2024-04-13,2024-07-01,Delayed,116,169,2107673
+Marketing Optimizer 100,Sneha,2024-03-28,2024-07-25,Delayed,109,165,1727195
