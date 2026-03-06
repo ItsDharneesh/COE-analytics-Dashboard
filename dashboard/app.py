@@ -28,37 +28,40 @@ st.sidebar.write("Center of Excellence Initiative Monitoring Dashboard")
 # -----------------------------
 # Dynamic Dataset Generation
 # -----------------------------
-st.sidebar.markdown(
+box = st.sidebar.container()
+
+box.markdown(
     """
     <div style="
         border:2px solid #4CAF50;
         padding:15px;
         border-radius:10px;
-        background-color:#f0fff4;
         margin-bottom:10px;
     ">
-        <h4 style="margin-bottom:5px;">⬇️ Generate a New Dataset</h4>
+        <h4 style="margin-bottom:5px;">
+        ⬇️ Generate a New Dataset
+        </h4>
         <p style="font-size:13px;">
-        Click the button below to create a fresh dataset of 100 initiatives and observe
-        how the dashboard updates dynamically.
+        Click the button below to create a fresh dataset of 100 initiatives
+        and observe how the dashboard updates dynamically.
         </p>
     </div>
     """,
     unsafe_allow_html=True
 )
 
-if st.sidebar.button("🔄 Generate New Dataset"):
+with box:
+    if st.button("🔄 Generate New Dataset", use_container_width=True):
 
-    new_df = generate_dataset(100)
+        new_df = generate_dataset(100)
 
-    save_path = os.path.join(ROOT_DIR, "datasets", "coe_initiatives.csv")
+        save_path = os.path.join(ROOT_DIR, "datasets", "coe_initiatives.csv")
 
-    new_df.to_csv(save_path, index=False)
+        new_df.to_csv(save_path, index=False)
 
-    st.sidebar.success("New dataset generated!")
+        st.success("New dataset generated!")
 
-    st.rerun()
-    
+        st.rerun() 
 # -----------------------------
 # Title
 # -----------------------------
