@@ -15,6 +15,13 @@ The dashboard includes a **"Generate New Dataset"** button in the sidebar that c
 
 This allows the dashboard to **simulate dynamic data updates**, automatically refreshing all metrics, charts, and timelines to demonstrate how the analytics system performs with varying data scenarios.
 
+---
+## 🚀 Live App Link below
+
+DO Click on the **Generate New Dataset** button to check how dynamic the Dashboard is. 👍🏻👍🏻
+
+Try the app here:  
+👉 https://coe-analytics-dashboard-mewiyya59aki9y8bfduva78dt.streamlit.app/
 
 ---
 
