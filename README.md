@@ -18,7 +18,7 @@ This allows the dashboard to **simulate dynamic data updates**, automatically re
 ---
 ## 🚀 Live App Link below
 
-DO Click on the **Generate New Dataset** button to check how dynamic the Dashboard is. 👍🏻👍🏻
+Do Click on the **Generate New Dataset** button on the sidebar to check how dynamic the Dashboard is while testing. 👍🏻👍🏻
 
 Try the app here:  
 👉 https://coe-analytics-dashboard-mewiyya59aki9y8bfduva78dt.streamlit.app/
